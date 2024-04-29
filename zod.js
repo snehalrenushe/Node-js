@@ -3,7 +3,6 @@ const zod = require("zod");
 const app = express();
 
 // const schema = zod.array(zod.number());
-
 // {
 //   email: string => email
 //   password: atleast 8 letters
